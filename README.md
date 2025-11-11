@@ -1,16 +1,22 @@
-## Hi there 👋
+. . .mweooof ! --
 
-<!--
-**fran-lulu/fran-lulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+life
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+˚ 𝜗𝜚˚⋆｡☆ Does not think before blocking on pt ! ｡ check strawage for info.ᐟ.ᐟ
+
+INsensitive . ALWAYS c + h encouraged ! ✮⋆˙ i love interactions if u arent weird
+
+pls talk to me about my interests ⊹˚. ♡.𖥔 ݁ ˖
+
+strictly he/she/thy (thy, not they, thy, as in thy/thou/thee) ONLY ! ⌗⌗ ⪩. .⪨
+
+d o not capitalize our name or anything when referring to us ! -
+
+rabid dog ???? 𖥔 ⊹˚.ᐟ
+
+    <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<fran-lulu>"/>  
+    </div>
