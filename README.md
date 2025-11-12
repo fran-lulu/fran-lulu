@@ -1,6 +1,8 @@
 
 # " hello! this is fran!*!* "
 
+![](https://komarev.com/ghpvc/?username=fran-lulu&color=FCA4CA)
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3a9b8945-82ae-4db8-8b20-c6bcb88964a2" />
 
 .
