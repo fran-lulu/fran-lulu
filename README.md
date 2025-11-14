@@ -25,7 +25,7 @@
 <img width="1000" height="218" alt="image" src="https://github.com/user-attachments/assets/1d4b0a04-c11a-45a8-9e57-47496ff8b3c4" />
 
 
-# <p align=center> $${\color{blue}watch the KAngellings for me, okay?}$$
+# <p align=center> $${\color{blue}watch \space the \space KAngellings \space for \space me, \space okay?}$$
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/6c5e1d9a-2a9a-438d-8efc-f2dce7b44f06" /> <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/a3259f4d-8e0b-4cfc-846e-447f62f83569" /> <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/243fa0b3-9ccc-472c-95fe-b7603fcd7062" /> <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/be866f1a-de87-40e9-9d9c-d694b924e911" /> <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/14b83a01-987e-4cde-9ca2-201f1c2fdc24" /> <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/2879a3c7-4896-4722-b1ca-ad13284fcc36" /> 
 <img width="1000" height="218" alt="image" src="https://github.com/user-attachments/assets/e486d2c3-c385-4c7f-805c-1a47798c2d44" />
 
