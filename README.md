@@ -1,12 +1,12 @@
 
+<img width="1000" height="215" alt="image" src="https://github.com/user-attachments/assets/d76a9b80-14cc-413c-9363-e2b418d45f65" />
 
 # <p align=center> ${\color{blue}" \space hello! \space this \space is \space fran!! \space "}$
 
-<img width="1000" height="215" alt="image" src="https://github.com/user-attachments/assets/d76a9b80-14cc-413c-9363-e2b418d45f65" />
 
 ![](https://komarev.com/ghpvc/?username=fran-lulu&color=FCA4CA)
 
-<p align=center> <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3a9b8945-82ae-4db8-8b20-c6bcb88964a2" />
+<p align=center> <img width="736" height="470" alt="image" src="https://github.com/user-attachments/assets/e5a429f7-4401-4bca-afe1-6afd3396548e" />
 
 <p align=center> <img width="400" height="87" alt="image" src="https://github.com/user-attachments/assets/ae1c947a-9c2b-4744-b2be-dcf1d84ea9ce" />
 
