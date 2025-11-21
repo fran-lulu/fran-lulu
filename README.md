@@ -1,10 +1,10 @@
 
 
-# <p align=center> $${\color{blue}" \space hello! \space this \space is \space fran!! \space "}$$
+# <p align=center> ${\color{blue}" \space hello! \space this \space is \space fran!! \space "}$
 
 <img width="1000" height="215" alt="image" src="https://github.com/user-attachments/assets/d76a9b80-14cc-413c-9363-e2b418d45f65" />
 
-<p align=center> ![](https://komarev.com/ghpvc/?username=fran-lulu&color=FCA4CA)
+![](https://komarev.com/ghpvc/?username=fran-lulu&color=FCA4CA)
 
 <p align=center> <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3a9b8945-82ae-4db8-8b20-c6bcb88964a2" />
 
