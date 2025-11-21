@@ -1,4 +1,4 @@
-<img width="1000" height="218" alt="image" src="https://github.com/user-attachments/assets/ae1c947a-9c2b-4744-b2be-dcf1d84ea9ce" />
+<img width="400" height="87" alt="image" src="https://github.com/user-attachments/assets/ae1c947a-9c2b-4744-b2be-dcf1d84ea9ce" />
 
 
 # <p align=center> $${\color{blue}" \space hello! \space this \space is \space fran!! \space "}$$
@@ -9,7 +9,8 @@
 
 <p align=center> <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3a9b8945-82ae-4db8-8b20-c6bcb88964a2" />
 
-.
+<p align=center> <img width="400" height="87" alt="image" src="https://github.com/user-attachments/assets/ae1c947a-9c2b-4744-b2be-dcf1d84ea9ce" />
+
 
 <p align=center> $${\color{blue}˚ \space 𝜗𝜚˚⋆｡☆ \space Does \space not \space think \space before \space blocking \space on \space pt \space ! \space ｡ \space check \space strawpage \space for \space info \space .ᐟ \space .ᐟ \space}$$ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/de9f5ef2-8ede-48fd-8387-5155865d9d49" /> 
 <p align=center> $${\color{blue}INsensitive \space . \space ALWAYS \space c \space + \space h \space encouraged \space ! \space ✮⋆˙ \space i \space love \space interactions \space if \space u \space arent \space weird}$$
