@@ -11,20 +11,20 @@
 <p align=center> <img width="400" height="87" alt="image" src="https://github.com/user-attachments/assets/ae1c947a-9c2b-4744-b2be-dcf1d84ea9ce" />
 
 
-<p align=center> ${\color{blue} What\spacethis\spaceread.me\spacecontains:}$
-<p align=center> ${\color{blue} General\spaceinfo,\spaceMedia\spacei\spaceEnjoy,\spaceSimple\spaceDNI}$
+<p align=center> ${\color{blue} What \space this \space read.me \space contains:}$
+<p align=center> ${\color{blue} General \space info, \space Media \space i \space Enjoy, \space Simple \space DNI }$
 
-<p align=center> ${\color{blue}˚ \space 𝜗𝜚˚⋆｡☆ \space Does \space not \space think \space before \space blocking \space on \space pt \space ! \space ｡ \space check \space strawpage \space for \space info \space .ᐟ \space .ᐟ \space}$$ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/de9f5ef2-8ede-48fd-8387-5155865d9d49" /> 
+<p align=center> ${\color{blue}˚ \space 𝜗𝜚˚⋆｡☆ \space Does \space not \space think \space before \space blocking \space on \space pt \space ! \space ｡ \space check \space strawpage \space for \space info \space .ᐟ \space .ᐟ \space}$ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/de9f5ef2-8ede-48fd-8387-5155865d9d49" /> 
   
-<p align=center> $${\color{blue}INsensitive \space . \space ALWAYS \space c \space + \space h \space encouraged \space ! \space ✮⋆˙ \space i \space love \space interactions \space if \space u \space arent \space weird}$
+<p align=center> ${\color{blue}INsensitive \space . \space ALWAYS \space c \space + \space h \space encouraged \space ! \space ✮⋆˙ \space i \space love \space interactions \space if \space u \space arent \space weird}$
 
-<p align=center> $${\color{blue}pls \space talk \space to \space me \space about \space my \space interests \space ⊹ \space˚. \space ♡.𖥔 \space ݁ ˖}$
+<p align=center> ${\color{blue}pls \space talk \space to \space me \space about \space my \space interests \space ⊹ \space˚. \space ♡.𖥔 \space ݁I \space  \space especially \space love \space Mouthwashing, No \space im \space not \space a \space human, \space Dispatch, \space Bioshock, \space Subnautica, \space Slime rancher, \space Sally face, \space Franbow, \space House 1 \space and \space 2 \space (game) \space and \space Little \space misfortune ˖}$
 
 <p align=center> ${\color{blue}strictly \space he/she/thy \space (thy, \space not \space they, \space thy, \space as \space in \space thy/thou/thee) \space ONLY \space ! \space ⌗⌗ \space ⪩. \space .⪨}$
 
 <p align=center> ${\color{blue}d \space o \space not \space capitalize \space our \space name \space or \space anything  \space when \space referring \space to \space us \space ! \space -}$
   
-<p align=center> ${\color{blue}rabid \space dog ???? 𖥔 ⊹˚.ᐟ
+<p align=center> ${\color{blue} rabid \space dog ???? 𖥔 ⊹˚.ᐟ DNI \space WEIRDOS, \space CHRONICALLY \space ONLINE, \space ADULTS \space OVER \space 22 \space AND \space MINORS \space UNDER \space 13. }$
 
 <p align=center>  #WIP
 
