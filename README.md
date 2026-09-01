@@ -3,5 +3,11 @@
  <p align="center"> <img width="400" height="43" alt="tumblr_e7753a3cb07ed7194e305811eb826c0d_cd18fc4c_400" src="https://github.com/user-attachments/assets/7f8eb1f6-074e-490c-bec0-edb7d0500487" /> </p>
 <p align="center"> <img width="339" height="138" alt="image" src="https://github.com/user-attachments/assets/2f807cef-2750-407b-8aef-a70b79c63800" /> </p>
 <p align="center"> <img width="400" height="117" alt="tumblr_1b1b89c27ba736ab94bf76d0351b9957_8d46aa2e_400" src="https://github.com/user-attachments/assets/6f492c7a-f47d-4cb3-a927-490cce84f5a9" /> </p>
+ - (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡
+ my name is Fran, I'm 15, and I'm an animator, artist and writer! feel free to contact me about passion projects any time 👀 
+
+ - discord- 5ullets
+ - toyhouse- 5ullets
+ - tiktok- 5ulletsn
 
 
