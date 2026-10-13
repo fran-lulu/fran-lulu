@@ -9,8 +9,8 @@
         }
         @keyframes fall {
             to { transform: translateY(110vh) rotate(360deg); }
-        }
-    </style>
+        
+</style>
 
 <p align="center"> <img width="50" height="50" alt="tumblr_202a7f4af0d15944c72d46ca8fc88c48_b388fd61_100" src="https://github.com/user-attachments/assets/3209a84c-9cf4-43c9-b605-23270e36469c" /> <img width="400" height="22" alt="tumblr_8a36cc1588a08ac8ae83eb08f2178eb1_e8748a95_400" src="https://github.com/user-attachments/assets/f02c2a67-c6a8-4819-935a-2cedb5e8db09" />
 <img width="50" height="50" alt="tumblr_3c5c81957324555c1265cabd7224ce65_6a1d89b7_100" src="https://github.com/user-attachments/assets/82b18a74-30f6-4d3c-b09a-bb9ab51912d5" /> </p>
@@ -29,7 +29,7 @@
             function createSnowflake() {
                 const flake = document.createElement('img');
                 flake.classList.add('snowflake');
-                flake.src = 'https://i.ibb.co/TMnHtqz5/AIRI.png';
+                flake.src = 'https://f2.toyhou.se/file/f2-toyhou-se/images/127787441_5vG0icMUh0MqVzD.png';
                 flake.style.left = Math.random() * 100 + 'vw';
                 const flakeSize = Math.random() * 20 + 50; //const flakeSize = Math.random() * 20 + 30;
                 flake.style.height = flakeSize + 'px';
